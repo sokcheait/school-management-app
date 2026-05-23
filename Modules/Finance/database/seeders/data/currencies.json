@@ -1,0 +1,26 @@
+[
+    {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$",
+        "exchange_rate": 1.0000,
+        "is_default": true,
+        "is_active": true
+    },
+    {
+        "code": "KHR",
+        "name": "Cambodian Riel",
+        "symbol": "៛",
+        "exchange_rate": 4050.0000,
+        "is_default": false,
+        "is_active": true
+    },
+    {
+        "code": "VND",
+        "name": "Vietnamese Dong",
+        "symbol": "₫",
+        "exchange_rate": 25450.0000,
+        "is_default": false,
+        "is_active": true
+    }
+]

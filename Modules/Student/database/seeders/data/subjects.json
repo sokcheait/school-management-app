@@ -1,0 +1,72 @@
+[
+    {
+        "name_en": "Mathematics",
+        "name_kh": "គណិតវិទ្យា",
+        "code": "MATH-G10",
+        "description": "General Mathematics for Grade 10",
+        "is_active": true
+    },
+    {
+        "name_en": "Physics",
+        "name_kh": "រូបវិទ្យា",
+        "code": "PHYS-G10",
+        "description": "Introduction to Mechanics and Thermodynamics",
+        "is_active": true
+    },
+    {
+        "name_en": "Chemistry",
+        "name_kh": "គីមីវិទ្យា",
+        "code": "CHEM-G10",
+        "description": "Basic Organic and Inorganic Chemistry",
+        "is_active": true
+    },
+    {
+        "name_en": "Biology",
+        "name_kh": "ជីវវិទ្យា",
+        "code": "BIO-G10",
+        "description": "Study of living organisms and ecosystems",
+        "is_active": true
+    },
+    {
+        "name_en": "Khmer Literature",
+        "name_kh": "អក្សរសាស្ត្រខ្មែរ",
+        "code": "KHM-G10",
+        "description": "Khmer language, grammar, and literature",
+        "is_active": true
+    },
+    {
+        "name_en": "History",
+        "name_kh": "ប្រវត្តិវិទ្យា",
+        "code": "HIST-G10",
+        "description": "World and Cambodian History",
+        "is_active": true
+    },
+    {
+        "name_en": "Geography",
+        "name_kh": "ភូមិវិទ្យា",
+        "code": "GEO-G10",
+        "description": "Physical and Political Geography",
+        "is_active": true
+    },
+    {
+        "name_en": "Information Technology",
+        "name_kh": "បច្ចេកវិទ្យាព័ត៌មាន",
+        "code": "ICT-G10",
+        "description": "Basic computer skills and networking",
+        "is_active": true
+    },
+    {
+        "name_en": "Foreign Language (English)",
+        "name_kh": "ភាសាបរទេស (អង់គ្លេស)",
+        "code": "ENG-G10",
+        "description": "English communication and grammar",
+        "is_active": true
+    },
+    {
+        "name_en": "Physical Education",
+        "name_kh": "អប់រំកាយ និងកីឡា",
+        "code": "PE-G10",
+        "description": "Health and physical fitness activities",
+        "is_active": false
+    }
+]

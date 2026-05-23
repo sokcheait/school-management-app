@@ -1,0 +1,112 @@
+[
+    {
+        "teacher_no": "T001",
+        "name_kh": "សុខ ដារ៉ា",
+        "name_en": "Sok Dara",
+        "gender": "male",
+        "email": "dara1@gmail.com",
+        "phone": "010111111",
+        "date_of_birth": "1990-01-01",
+        "base_salary": 500,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T002",
+        "name_kh": "ចាន់ សុភា",
+        "name_en": "Chan Sophea",
+        "gender": "female",
+        "email": "sophea2@gmail.com",
+        "phone": "010222222",
+        "date_of_birth": "1991-02-10",
+        "base_salary": 520,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T003",
+        "name_kh": "ហេង វិសាល",
+        "name_en": "Heng Visal",
+        "gender": "male",
+        "email": "visal3@gmail.com",
+        "phone": "010333333",
+        "date_of_birth": "1988-03-15",
+        "base_salary": 550,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T004",
+        "name_kh": "ម៉ៅ ស្រីនាង",
+        "name_en": "Mao Sreynang",
+        "gender": "female",
+        "email": "sreynang4@gmail.com",
+        "phone": "010444444",
+        "date_of_birth": "1992-04-20",
+        "base_salary": 480,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T005",
+        "name_kh": "លី ចំរើន",
+        "name_en": "Ly Chamroeun",
+        "gender": "male",
+        "email": "chamroeun5@gmail.com",
+        "phone": "010555555",
+        "date_of_birth": "1987-05-05",
+        "base_salary": 600,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T006",
+        "name_kh": "គឹម លីហួរ",
+        "name_en": "Kim Lyhour",
+        "gender": "male",
+        "email": "lyhour6@gmail.com",
+        "phone": "010666666",
+        "date_of_birth": "1993-06-18",
+        "base_salary": 530,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T007",
+        "name_kh": "ហ៊ុល សុភ័ក្រ្ត",
+        "name_en": "Hul Sophek",
+        "gender": "female",
+        "email": "sophek7@gmail.com",
+        "phone": "010777777",
+        "date_of_birth": "1990-07-22",
+        "base_salary": 510,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T008",
+        "name_kh": "សេង វណ្ណា",
+        "name_en": "Seng Vanna",
+        "gender": "male",
+        "email": "vanna8@gmail.com",
+        "phone": "010888888",
+        "date_of_birth": "1989-08-09",
+        "base_salary": 580,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T009",
+        "name_kh": "ឈុន ម៉ាលី",
+        "name_en": "Chhun Maly",
+        "gender": "female",
+        "email": "maly9@gmail.com",
+        "phone": "010999999",
+        "date_of_birth": "1994-09-12",
+        "base_salary": 490,
+        "is_active": true
+    },
+    {
+        "teacher_no": "T010",
+        "name_kh": "ព្រំ សុវណ្ណ",
+        "name_en": "Prom Sovann",
+        "gender": "male",
+        "email": "sovann10@gmail.com",
+        "phone": "010101010",
+        "date_of_birth": "1986-10-30",
+        "base_salary": 620,
+        "is_active": true
+    }
+]

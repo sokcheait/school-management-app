@@ -1,0 +1,137 @@
+[
+    {
+        "code": "REG001",
+        "name_kh": "ថ្លៃចុះឈ្មោះ",
+        "name_en": "Registration Fee",
+        "amount": 20,
+        "currency_id": 1,
+        "description": "Student registration fee",
+        "is_active": true
+    },
+    {
+        "code": "TUI001",
+        "name_kh": "ថ្លៃសិក្សា",
+        "name_en": "Tuition Fee",
+        "amount": 120,
+        "currency_id": 1,
+        "description": "Monthly tuition fee",
+        "is_active": true
+    },
+    {
+        "code": "ADM001",
+        "name_kh": "ថ្លៃរដ្ឋបាល",
+        "name_en": "Administration Fee",
+        "amount": 15,
+        "currency_id": 1,
+        "description": "Administration service fee",
+        "is_active": true
+    },
+    {
+        "code": "LIB001",
+        "name_kh": "ថ្លៃបណ្ណាល័យ",
+        "name_en": "Library Fee",
+        "amount": 10,
+        "currency_id": 1,
+        "description": "Library membership fee",
+        "is_active": true
+    },
+    {
+        "code": "LAB001",
+        "name_kh": "ថ្លៃមន្ទីរពិសោធន៍",
+        "name_en": "Laboratory Fee",
+        "amount": 25,
+        "currency_id": 1,
+        "description": "Science laboratory usage fee",
+        "is_active": true
+    },
+    {
+        "code": "EXM001",
+        "name_kh": "ថ្លៃប្រឡង",
+        "name_en": "Examination Fee",
+        "amount": 30,
+        "currency_id": 1,
+        "description": "Semester examination fee",
+        "is_active": true
+    },
+    {
+        "code": "ID001",
+        "name_kh": "ថ្លៃប័ណ្ណសិស្ស",
+        "name_en": "Student ID Card Fee",
+        "amount": 5,
+        "currency_id": 1,
+        "description": "Student identification card fee",
+        "is_active": true
+    },
+    {
+        "code": "UNI001",
+        "name_kh": "ថ្លៃឯកសណ្ឋាន",
+        "name_en": "Uniform Fee",
+        "amount": 50,
+        "currency_id": 1,
+        "description": "School uniform fee",
+        "is_active": true
+    },
+    {
+        "code": "BUS001",
+        "name_kh": "ថ្លៃដឹកជញ្ជូន",
+        "name_en": "Transportation Fee",
+        "amount": 40,
+        "currency_id": 1,
+        "description": "School transportation service fee",
+        "is_active": true
+    },
+    {
+        "code": "HOS001",
+        "name_kh": "ថ្លៃស្នាក់នៅ",
+        "name_en": "Hostel Fee",
+        "amount": 200,
+        "currency_id": 1,
+        "description": "Student hostel accommodation fee",
+        "is_active": true
+    },
+    {
+        "code": "SCH001",
+        "name_kh": "ថ្លៃអាហារូបករណ៍",
+        "name_en": "Scholarship Processing Fee",
+        "amount": 12,
+        "currency_id": 1,
+        "description": "Scholarship application processing fee",
+        "is_active": true
+    },
+    {
+        "code": "GRD001",
+        "name_kh": "ថ្លៃបញ្ចប់ការសិក្សា",
+        "name_en": "Graduation Fee",
+        "amount": 80,
+        "currency_id": 1,
+        "description": "Graduation ceremony fee",
+        "is_active": true
+    },
+    {
+        "code": "CER001",
+        "name_kh": "ថ្លៃវិញ្ញាបនបត្រ",
+        "name_en": "Certificate Fee",
+        "amount": 25,
+        "currency_id": 1,
+        "description": "Certificate issuing fee",
+        "is_active": true
+    },
+    {
+        "code": "COM001",
+        "name_kh": "ថ្លៃកុំព្យូទ័រ",
+        "name_en": "Computer Lab Fee",
+        "amount": 35,
+        "currency_id": 1,
+        "description": "Computer laboratory usage fee",
+        "is_active": true
+    },
+    {
+        "code": "ACT001",
+        "name_kh": "ថ្លៃសកម្មភាពសិស្ស",
+        "name_en": "Student Activity Fee",
+        "amount": 18,
+        "currency_id": 1,
+        "description": "Extracurricular activities fee",
+        "is_active": true
+    }
+]

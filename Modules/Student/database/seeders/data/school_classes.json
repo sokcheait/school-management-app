@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Grade 1",
+        "section": "A",
+        "academic_year": "2025-2026"
+    },
+    {
+        "name": "Grade 1",
+        "section": "B",
+        "academic_year": "2025-2026"
+    },
+    {
+        "name": "Grade 2",
+        "section": "A",
+        "academic_year": "2025-2026"
+    },
+    {
+        "name": "Grade 2",
+        "section": "B",
+        "academic_year": "2025-2026"
+    },
+    {
+        "name": "Grade 3",
+        "section": "A",
+        "academic_year": "2025-2026"
+    }
+]
